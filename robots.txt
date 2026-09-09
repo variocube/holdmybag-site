@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://holdmybag.net/sitemap.xml
