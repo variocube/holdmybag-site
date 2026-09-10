@@ -75,7 +75,7 @@
     "booking_url": "https://booking.holdmybag.net/three-friends/heymi-apartments/dates",
     "image_url": "/content/img/hmb/loc/6b106a70-345a-469b-9e7a-4bfa27821c4d/09d359c4c6d7452f9685b59d0ec5abeb.webp",
     "description_short": "Die Gepäckschließfächer (Luggage Locker) befinden sich im Untergeschoss der Heymi Appartments Mondscheingasse.",
-    "translation_fallback": false
+    "translation_fallback": true
   },
   {
     "id": "a2c77c18-75df-4f78-9af3-ba8301767f73",
