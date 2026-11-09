@@ -1,55 +1,55 @@
 [
   {
+    "id": "08c191a4-95a6-4efa-9550-996d9da129ec",
+    "slug": "burghausen",
+    "title": "Burghausen Stadtplatz",
+    "lat": 48.1586054,
+    "lng": 12.8333581,
+    "category": "onsite",
+    "city": "Burghausen",
+    "booking_url": null,
+    "image_url": "/content/img/hmb/loc/08c191a4-95a6-4efa-9550-996d9da129ec/56e02953729240f092b7be2a7518c285.webp",
+    "description_short": "Zugang am Gemeindeamt",
+    "translation_fallback": true
+  },
+  {
     "id": "2532b3a7-5b5c-4784-9878-6bc999746378",
     "slug": "stuttgart-hallenduo",
-    "title": "Stuttgart – Porsche-Arena / Hanns-Martin-Schleyer-Halle",
+    "title": "Stuttgart – Porsche-Arena / Hanns-Martin-Schleyer-Halle / Schließsfächer für Garderobe",
     "lat": 48.7940598,
     "lng": 9.2271424,
     "category": "online_onsite",
     "city": "Stuttgart",
     "booking_url": "https://booking.holdmybag.net/in-stuttgart/",
-    "image_url": null,
-    "description_short": null,
-    "translation_fallback": false
+    "image_url": "/content/img/hmb/loc/2532b3a7-5b5c-4784-9878-6bc999746378/56383a69c72248a3bdfdba77d8b0f19e.webp",
+    "description_short": "Die Garderoben Schließfächer befinden sich im Untergeschoss, direkt neben den manuellen Garderoben.",
+    "translation_fallback": true
   },
   {
     "id": "2bd6ea06-2379-4e8b-9f4a-8ee47fc03b48",
     "slug": "wyndham-grand-salzburg-conference-centre-hotel",
-    "title": "Wyndham Grand Salzburg Conference Centre Hotel",
+    "title": "Radisson Blu Hotel & Conference Centre, Salzburg",
     "lat": 47.8152675,
     "lng": 13.0437085,
     "category": "online_onsite",
     "city": "Salzburg",
     "booking_url": "https://booking.holdmybag.net/wyndham-salzburg/wyndham-hotel-salzburg/dates",
-    "image_url": null,
-    "description_short": null,
+    "image_url": "/content/img/hmb/loc/2bd6ea06-2379-4e8b-9f4a-8ee47fc03b48/9b91344460a34f5cb537ab0937909d03.webp",
+    "description_short": "The Radisson Blu Hotel is located right next to the main train station in Salzburg. The luggage locker is inside the hotel; access is via the lobby or the parking garage.",
     "translation_fallback": false
   },
   {
-    "id": "31a3c1aa-6cf0-4e28-87d6-a1f2348c7656",
-    "slug": "freistadt",
-    "title": "Freistadt Hauptplatz",
-    "lat": 48.5111386,
-    "lng": 14.5056387,
-    "category": "onsite",
-    "city": "Freistadt",
-    "booking_url": null,
-    "image_url": null,
-    "description_short": null,
-    "translation_fallback": false
-  },
-  {
-    "id": "52a313f7-1f0e-43b6-aac4-7d2c7fd46b44",
-    "slug": "lentiacity",
-    "title": "Linz LentiaCity – UG1",
-    "lat": 48.3141946,
-    "lng": 14.2814938,
-    "category": "onsite",
-    "city": "Linz",
-    "booking_url": null,
-    "image_url": null,
-    "description_short": null,
-    "translation_fallback": false
+    "id": "6242cc41-c0f7-4395-b759-315a0f4fdeb4",
+    "slug": "balmers-hostel-interlaken",
+    "title": "Balmers Hostel | Interlaken",
+    "lat": 46.6815062,
+    "lng": 7.863922,
+    "category": "online_onsite",
+    "city": "Matten bei Interlaken",
+    "booking_url": "https://booking.holdmybag.net/balmers-hostel/balmers-hostel-interlaken/dates",
+    "image_url": "/content/img/hmb/loc/6242cc41-c0f7-4395-b759-315a0f4fdeb4/a7d5d846f7f742d48ea388efad279672.webp",
+    "description_short": "Gepäckschließfächer im Hotel im extra Gepäckraum. Zutritt von außen für die Gäste des Balmers Hostel.",
+    "translation_fallback": true
   },
   {
     "id": "6576a696-18b8-408e-9472-c914beb94711",
@@ -61,8 +61,21 @@
     "city": "Ischgl",
     "booking_url": "https://booking.holdmybag.net/fire-and-ice-ischgl/fire-and-ice/dates",
     "image_url": null,
-    "description_short": null,
-    "translation_fallback": false
+    "description_short": "Schliessfächer für Garderobe im Durchgang vom Haupteingang, offen für alle Gäste.",
+    "translation_fallback": true
+  },
+  {
+    "id": "681b2080-99af-40c8-bb63-e14eb374b9f8",
+    "slug": "bahnhof-zell-am-ziller",
+    "title": "Bahnhof Zell am Ziller 2",
+    "lat": 47.2315935,
+    "lng": 11.881363,
+    "category": "online_onsite",
+    "city": "Zell am Ziller",
+    "booking_url": "https://booking.holdmybag.net/zillertaler-verkehrsbetriebe-ag/bahnhof-zell-am-ziller",
+    "image_url": "/content/img/hmb/loc/681b2080-99af-40c8-bb63-e14eb374b9f8/7b9b62e317644086a4054e89f68a9770.webp",
+    "description_short": "Öffentlich nutzbare Gepäckschließfächer, direkt am Bahnhof Zell am Ziller",
+    "translation_fallback": true
   },
   {
     "id": "6b106a70-345a-469b-9e7a-4bfa27821c4d",
@@ -73,8 +86,34 @@
     "category": "online_onsite",
     "city": "Wien",
     "booking_url": "https://booking.holdmybag.net/three-friends/heymi-apartments/dates",
-    "image_url": "/content/img/hmb/loc/6b106a70-345a-469b-9e7a-4bfa27821c4d/09d359c4c6d7452f9685b59d0ec5abeb.webp",
+    "image_url": "/content/img/hmb/loc/6b106a70-345a-469b-9e7a-4bfa27821c4d/df88c746d1c848368f80c7f0ffc9f591.webp",
     "description_short": "Die Gepäckschließfächer (Luggage Locker) befinden sich im Untergeschoss der Heymi Appartments Mondscheingasse.",
+    "translation_fallback": true
+  },
+  {
+    "id": "791e880a-0c96-4c82-a650-f79bd6498272",
+    "slug": "waltherpark-spa",
+    "title": "Waltherpark Bozen",
+    "lat": 46.4974493,
+    "lng": 11.3554717,
+    "category": "online_onsite",
+    "city": "Bozen",
+    "booking_url": "https://booking.holdmybag.net/waltherpark-spa",
+    "image_url": "/content/img/hmb/loc/791e880a-0c96-4c82-a650-f79bd6498272/195c5611be0949b2acb4f0af18a5c499.webp",
+    "description_short": "Die Schließfächer befinden sich an zentraler Stelle im Erdgeschoß des Waltherpark. Verschiedene Größen sind buchbar, unter anderem auch für das Aufladen von Handys/ I-Pads.",
+    "translation_fallback": true
+  },
+  {
+    "id": "a1a992e8-5dff-4f90-a819-ad1f9fc9a409",
+    "slug": "athens-commercial-1",
+    "title": "Athens Commercial 1-7",
+    "lat": 37.9775065,
+    "lng": 23.7286476,
+    "category": "online_onsite",
+    "city": "Athens",
+    "booking_url": "https://booking.holdmybag.net/zeusrfid/athens-commercial/dates",
+    "image_url": "/content/img/hmb/loc/a1a992e8-5dff-4f90-a819-ad1f9fc9a409/b883660ba4cb4a278ff9606464d4ca4d.webp",
+    "description_short": "Kurzbeschreibung",
     "translation_fallback": true
   },
   {
@@ -87,21 +126,8 @@
     "city": "Innsbruck",
     "booking_url": "https://booking.citylocker.store/citylocker-store/citylocker.store/dates",
     "image_url": null,
-    "description_short": null,
-    "translation_fallback": false
-  },
-  {
-    "id": "a9c93cee-8aa1-4235-be8e-91828cbacebc",
-    "slug": "pluscity",
-    "title": "Linz PlusCity – in den Eingangsbereichen",
-    "lat": 48.2450116,
-    "lng": 14.2354455,
-    "category": "onsite",
-    "city": "Pasching",
-    "booking_url": null,
-    "image_url": null,
-    "description_short": null,
-    "translation_fallback": false
+    "description_short": "Zugang zum Store über den Haupteingang  zum Store.",
+    "translation_fallback": true
   },
   {
     "id": "aa77d66b-2861-4d3a-99ae-52d7260b18d6",
@@ -112,8 +138,47 @@
     "category": "online_onsite",
     "city": "Berlin",
     "booking_url": "https://booking.holdmybag.net/homaris-ag/homaris-berlin-west-side/dates",
+    "image_url": "/content/img/hmb/loc/aa77d66b-2861-4d3a-99ae-52d7260b18d6/6e9d696cf7b14ffdafdf4d4a51187821.webp",
+    "description_short": "Die Gepäckschließfächer sind in der Lobby des Hotels frei zugänglich. Zutritt über den Haupteingang des Hotels mittels Zugangscode für die Gäste des Hotels.",
+    "translation_fallback": true
+  },
+  {
+    "id": "ad65c06e-c575-43bd-8d7b-91bb2b4caff8",
+    "slug": "lockerstore-niddastrasse",
+    "title": "Holdmybag Locker Store Frankfurt am Main - Niddastr. 63",
+    "lat": 50.1094045,
+    "lng": 8.6630254,
+    "category": "onsite",
+    "city": "Frankfurt am Main",
+    "booking_url": "https://booking.safecube.io/holdmybag/lockerstore-niddastrasse/dates",
+    "image_url": "/content/img/hmb/loc/ad65c06e-c575-43bd-8d7b-91bb2b4caff8/62d40a9f7caf452aabd2ec8980c79670.webp",
+    "description_short": "Holdmybag Locker Store, just a 3-minute walk from Frankfurt Central Station, featuring 75 high-quality lockers in a video-monitored facility. Easy access via QR code, with the option to book in advance.",
+    "translation_fallback": false
+  },
+  {
+    "id": "b7881b04-771d-4b7a-99e5-5ef6f71fd580",
+    "slug": "citystay-vienna",
+    "title": "Wien City Stay Vienna Stephansplatz",
+    "lat": 48.2098873,
+    "lng": 16.3761227,
+    "category": "online_onsite",
+    "city": "Wien",
+    "booking_url": "https://booking.holdmybag.net/elenas-apartments/city-stay-vienna-stephansplatz/dates",
     "image_url": null,
-    "description_short": null,
+    "description_short": "_",
+    "translation_fallback": true
+  },
+  {
+    "id": "bda2d7e7-91bb-4357-9ed9-a5fb605f17c9",
+    "slug": "wienerriesenrad",
+    "title": "Wiener Riesenrad - Gepäckschließfächer Holdmybag",
+    "lat": 48.2169998,
+    "lng": 16.3960327,
+    "category": "onsite",
+    "city": "Wien",
+    "booking_url": "https://booking.safecube.io/wienerriesenrad/wienerriesenrad/dates",
+    "image_url": "/content/img/hmb/loc/bda2d7e7-91bb-4357-9ed9-a5fb605f17c9/35ef46e62c2a4ef399017b8f77f4ed5e.webp",
+    "description_short": "The new Holdmybag / Variocube luggage lockers are located directly next to the entrance of the Vienna Giant Ferris Wheel (Wiener Riesenrad) in the Vienna Prater. Lockers are available in various sizes, including options for large suitcases.",
     "translation_fallback": false
   },
   {
@@ -126,21 +191,8 @@
     "city": "Wien",
     "booking_url": "https://booking.holdmybag.net/three-friends/heymi-apartments-zieglergasse/dates",
     "image_url": null,
-    "description_short": null,
-    "translation_fallback": false
-  },
-  {
-    "id": "ee7c1371-7df7-41d7-9ffe-cee196081872",
-    "slug": "landesgartenschau-neuss-2026",
-    "title": "Landesgartenschau Neuss 2026",
-    "lat": 51.1984667,
-    "lng": 6.700985,
-    "category": "online_onsite",
-    "city": "Neuss",
-    "booking_url": "https://booking.holdmybag.net/landesgartenschau-neuss-2026",
-    "image_url": null,
-    "description_short": null,
-    "translation_fallback": false
+    "description_short": "Der Luggage Locker steht in einem extra Raum im Hochparterre des Apartmenthauses und ist für de Gäste der HeyMi Apartments zugänglich.",
+    "translation_fallback": true
   },
   {
     "id": "f019f575-0548-4ed0-97de-1ad27db8e596",
@@ -152,21 +204,8 @@
     "city": "Berlin",
     "booking_url": "https://booking.holdmybag.net/homaris-ag/homaris-apartmenthaus-coe48/dates",
     "image_url": null,
-    "description_short": null,
-    "translation_fallback": false
-  },
-  {
-    "id": "f4d259af-ab46-4b79-92ca-2ad26196827f",
-    "slug": "hotel-spinnerei-linz",
-    "title": "Linz Best Western Hotel Spinnerei Linz",
-    "lat": 48.2456008,
-    "lng": 14.3286922,
-    "category": "onsite",
-    "city": "Linz",
-    "booking_url": null,
-    "image_url": null,
-    "description_short": null,
-    "translation_fallback": false
+    "description_short": "Die Gepäckschließfächer befinden sich im Erdgeschoss des Homaris in einem extra Gepäckraum.",
+    "translation_fallback": true
   },
   {
     "id": "fe7d6255-a278-4021-97ae-6ed9522ecd95",
@@ -178,7 +217,7 @@
     "city": "Stuttgart",
     "booking_url": "https://booking.safecube.io/str-kultur-und-betriebs-gmbH",
     "image_url": null,
-    "description_short": null,
-    "translation_fallback": false
+    "description_short": "Zugang zum Garderoben Locker im Rahmen der Veranstaltungen und der Öffnungszeiten des Wizemann.",
+    "translation_fallback": true
   }
 ]
