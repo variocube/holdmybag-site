@@ -10,7 +10,27 @@
     "booking_url": null,
     "image_url": "/content/img/hmb/loc/08c191a4-95a6-4efa-9550-996d9da129ec/56e02953729240f092b7be2a7518c285.webp",
     "description_short": "Zugang am Gemeindeamt",
-    "translation_fallback": true
+    "translation_fallback": true,
+    "address": "Stadtplatz 108",
+    "zip": "84489",
+    "country": "DE",
+    "url": "https://holdmybag.net/standort/burghausen/",
+    "url_en": "https://holdmybag.net/en/location/burghausen/",
+    "md_url": "https://holdmybag.net/en/location/burghausen.md",
+    "is_24_7": true,
+    "opening_hours": {
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": [],
+      "sun": []
+    },
+    "price_text": "Pakete 24 Std · M 0,00 €",
+    "booking_online": false,
+    "booking_qr": true,
+    "booking_terminal": false
   },
   {
     "id": "2532b3a7-5b5c-4784-9878-6bc999746378",
@@ -23,7 +43,27 @@
     "booking_url": "https://booking.holdmybag.net/in-stuttgart/",
     "image_url": "/content/img/hmb/loc/2532b3a7-5b5c-4784-9878-6bc999746378/56383a69c72248a3bdfdba77d8b0f19e.webp",
     "description_short": "Die Garderoben Schließfächer befinden sich im Untergeschoss, direkt neben den manuellen Garderoben.",
-    "translation_fallback": true
+    "translation_fallback": true,
+    "address": "Mercedesstraße 69",
+    "zip": "70372",
+    "country": "DE",
+    "url": "https://holdmybag.net/standort/stuttgart-hallenduo/",
+    "url_en": "https://holdmybag.net/en/location/stuttgart-hallenduo/",
+    "md_url": "https://holdmybag.net/en/location/stuttgart-hallenduo.md",
+    "is_24_7": true,
+    "opening_hours": {
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": [],
+      "sun": []
+    },
+    "price_text": "Pakete 12 Std · S 3,00 € · M 5,00 €",
+    "booking_online": true,
+    "booking_qr": true,
+    "booking_terminal": true
   },
   {
     "id": "2bd6ea06-2379-4e8b-9f4a-8ee47fc03b48",
@@ -36,7 +76,27 @@
     "booking_url": "https://booking.holdmybag.net/wyndham-salzburg/wyndham-hotel-salzburg/dates",
     "image_url": "/content/img/hmb/loc/2bd6ea06-2379-4e8b-9f4a-8ee47fc03b48/9b91344460a34f5cb537ab0937909d03.webp",
     "description_short": "The Radisson Blu Hotel is located right next to the main train station in Salzburg. The luggage locker is inside the hotel; access is via the lobby or the parking garage.",
-    "translation_fallback": false
+    "translation_fallback": false,
+    "address": "Fanny-von-Lehnert-Straße 7",
+    "zip": "5020",
+    "country": null,
+    "url": "https://holdmybag.net/standort/wyndham-grand-salzburg-conference-centre-hotel/",
+    "url_en": "https://holdmybag.net/en/location/wyndham-grand-salzburg-conference-centre-hotel/",
+    "md_url": "https://holdmybag.net/en/location/wyndham-grand-salzburg-conference-centre-hotel.md",
+    "is_24_7": true,
+    "opening_hours": {
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": [],
+      "sun": []
+    },
+    "price_text": "Pakete 1/6/12/24 Std · S 2,50/4,50/5,50/7,50 € · M 3,50/5,50/7,50/9,50 € · L 4,50/6,50/9,50/12,50 €",
+    "booking_online": true,
+    "booking_qr": true,
+    "booking_terminal": true
   },
   {
     "id": "6242cc41-c0f7-4395-b759-315a0f4fdeb4",
@@ -49,7 +109,27 @@
     "booking_url": "https://booking.holdmybag.net/balmers-hostel/balmers-hostel-interlaken/dates",
     "image_url": "/content/img/hmb/loc/6242cc41-c0f7-4395-b759-315a0f4fdeb4/a7d5d846f7f742d48ea388efad279672.webp",
     "description_short": "Gepäckschließfächer im Hotel im extra Gepäckraum. Zutritt von außen für die Gäste des Balmers Hostel.",
-    "translation_fallback": true
+    "translation_fallback": true,
+    "address": "Hauptstraße 23-33",
+    "zip": "3800",
+    "country": "CH",
+    "url": "https://holdmybag.net/standort/balmers-hostel-interlaken/",
+    "url_en": "https://holdmybag.net/en/location/balmers-hostel-interlaken/",
+    "md_url": "https://holdmybag.net/en/location/balmers-hostel-interlaken.md",
+    "is_24_7": true,
+    "opening_hours": {
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": [],
+      "sun": []
+    },
+    "price_text": "Pakete 6/12/24 Std · S 3,00/5,00/6,00 CHF · M 4,00/7,00/9,00 CHF · L 6,00/8,00/10,00 CHF",
+    "booking_online": true,
+    "booking_qr": true,
+    "booking_terminal": true
   },
   {
     "id": "6576a696-18b8-408e-9472-c914beb94711",
@@ -62,7 +142,27 @@
     "booking_url": "https://booking.holdmybag.net/fire-and-ice-ischgl/fire-and-ice/dates",
     "image_url": null,
     "description_short": "Schliessfächer für Garderobe im Durchgang vom Haupteingang, offen für alle Gäste.",
-    "translation_fallback": true
+    "translation_fallback": true,
+    "address": "Silvrettaplatz 4",
+    "zip": "6561",
+    "country": null,
+    "url": "https://holdmybag.net/standort/fire-and-ice-ischgl/",
+    "url_en": "https://holdmybag.net/en/location/fire-and-ice-ischgl/",
+    "md_url": "https://holdmybag.net/en/location/fire-and-ice-ischgl.md",
+    "is_24_7": true,
+    "opening_hours": {
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": [],
+      "sun": []
+    },
+    "price_text": "Pakete 4/6 Std · M 6,00/12,00 € · L 8,00/16,00 €",
+    "booking_online": true,
+    "booking_qr": true,
+    "booking_terminal": true
   },
   {
     "id": "681b2080-99af-40c8-bb63-e14eb374b9f8",
@@ -75,7 +175,27 @@
     "booking_url": "https://booking.holdmybag.net/zillertaler-verkehrsbetriebe-ag/bahnhof-zell-am-ziller",
     "image_url": "/content/img/hmb/loc/681b2080-99af-40c8-bb63-e14eb374b9f8/7b9b62e317644086a4054e89f68a9770.webp",
     "description_short": "Öffentlich nutzbare Gepäckschließfächer, direkt am Bahnhof Zell am Ziller",
-    "translation_fallback": true
+    "translation_fallback": true,
+    "address": "Bahnhofstraße 11",
+    "zip": "6280",
+    "country": "AT",
+    "url": "https://holdmybag.net/standort/bahnhof-zell-am-ziller/",
+    "url_en": "https://holdmybag.net/en/location/bahnhof-zell-am-ziller/",
+    "md_url": "https://holdmybag.net/en/location/bahnhof-zell-am-ziller.md",
+    "is_24_7": true,
+    "opening_hours": {
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": [],
+      "sun": []
+    },
+    "price_text": "M: 2 €/Tag · L: 8 €/Tag",
+    "booking_online": true,
+    "booking_qr": true,
+    "booking_terminal": true
   },
   {
     "id": "6b106a70-345a-469b-9e7a-4bfa27821c4d",
@@ -88,7 +208,27 @@
     "booking_url": "https://booking.holdmybag.net/three-friends/heymi-apartments/dates",
     "image_url": "/content/img/hmb/loc/6b106a70-345a-469b-9e7a-4bfa27821c4d/df88c746d1c848368f80c7f0ffc9f591.webp",
     "description_short": "Die Gepäckschließfächer (Luggage Locker) befinden sich im Untergeschoss der Heymi Appartments Mondscheingasse.",
-    "translation_fallback": true
+    "translation_fallback": true,
+    "address": "Mondscheingasse 16",
+    "zip": "1070",
+    "country": "AT",
+    "url": "https://holdmybag.net/standort/booking-threefriends/",
+    "url_en": "https://holdmybag.net/en/location/booking-threefriends/",
+    "md_url": "https://holdmybag.net/en/location/booking-threefriends.md",
+    "is_24_7": true,
+    "opening_hours": {
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": [],
+      "sun": []
+    },
+    "price_text": "Pakete 3/6/12 Std · S 2,00/4,00/6,00 € · M 3,00/5,00/8,00 € · L 3,50/6,00/9,00 € · XL 4,00/7,00/10,00 € · XXL 6,00/10,00/12,00 €",
+    "booking_online": true,
+    "booking_qr": true,
+    "booking_terminal": true
   },
   {
     "id": "791e880a-0c96-4c82-a650-f79bd6498272",
@@ -101,7 +241,62 @@
     "booking_url": "https://booking.holdmybag.net/waltherpark-spa",
     "image_url": "/content/img/hmb/loc/791e880a-0c96-4c82-a650-f79bd6498272/195c5611be0949b2acb4f0af18a5c499.webp",
     "description_short": "Die Schließfächer befinden sich an zentraler Stelle im Erdgeschoß des Waltherpark. Verschiedene Größen sind buchbar, unter anderem auch für das Aufladen von Handys/ I-Pads.",
-    "translation_fallback": true
+    "translation_fallback": true,
+    "address": "Bahnhofsallee 5",
+    "zip": "39100",
+    "country": "IT",
+    "url": "https://holdmybag.net/standort/waltherpark-spa/",
+    "url_en": "https://holdmybag.net/en/location/waltherpark-spa/",
+    "md_url": "https://holdmybag.net/en/location/waltherpark-spa.md",
+    "is_24_7": false,
+    "opening_hours": {
+      "mon": [
+        [
+          "08:00:00",
+          "23:00:00"
+        ]
+      ],
+      "tue": [
+        [
+          "08:00:00",
+          "23:00:00"
+        ]
+      ],
+      "wed": [
+        [
+          "08:00:00",
+          "23:00:00"
+        ]
+      ],
+      "thu": [
+        [
+          "08:00:00",
+          "23:00:00"
+        ]
+      ],
+      "fri": [
+        [
+          "08:00:00",
+          "23:00:00"
+        ]
+      ],
+      "sat": [
+        [
+          "08:00:00",
+          "23:00:00"
+        ]
+      ],
+      "sun": [
+        [
+          "08:30:00",
+          "23:00:00"
+        ]
+      ]
+    },
+    "price_text": "Pakete 4/8 Std · S 3,00/5,00 € · M 3,50/6,50 € · L 4,00/6,50 € · XL 7,00/10,00 €",
+    "booking_online": true,
+    "booking_qr": true,
+    "booking_terminal": true
   },
   {
     "id": "a1a992e8-5dff-4f90-a819-ad1f9fc9a409",
@@ -114,7 +309,27 @@
     "booking_url": "https://booking.holdmybag.net/zeusrfid/athens-commercial/dates",
     "image_url": "/content/img/hmb/loc/a1a992e8-5dff-4f90-a819-ad1f9fc9a409/b883660ba4cb4a278ff9606464d4ca4d.webp",
     "description_short": "Kurzbeschreibung",
-    "translation_fallback": true
+    "translation_fallback": true,
+    "address": "Kolokotroni, 59B",
+    "zip": "10562",
+    "country": "GR",
+    "url": "https://holdmybag.net/standort/athens-commercial-1/",
+    "url_en": "https://holdmybag.net/en/location/athens-commercial-1/",
+    "md_url": "https://holdmybag.net/en/location/athens-commercial-1.md",
+    "is_24_7": true,
+    "opening_hours": {
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": [],
+      "sun": []
+    },
+    "price_text": "M: 1 €/Std · L: 2 €/Std · XL: 4 €/Std",
+    "booking_online": true,
+    "booking_qr": true,
+    "booking_terminal": false
   },
   {
     "id": "a2c77c18-75df-4f78-9af3-ba8301767f73",
@@ -127,7 +342,27 @@
     "booking_url": "https://booking.citylocker.store/citylocker-store/citylocker.store/dates",
     "image_url": null,
     "description_short": "Zugang zum Store über den Haupteingang  zum Store.",
-    "translation_fallback": true
+    "translation_fallback": true,
+    "address": "Marktgraben 13",
+    "zip": "6020",
+    "country": "AT",
+    "url": "https://holdmybag.net/standort/innsbruck-citylocker/",
+    "url_en": "https://holdmybag.net/en/location/innsbruck-citylocker/",
+    "md_url": "https://holdmybag.net/en/location/innsbruck-citylocker.md",
+    "is_24_7": true,
+    "opening_hours": {
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": [],
+      "sun": []
+    },
+    "price_text": "XS: 3 €/Tag · S: 6 €/Tag · M: 8 €/Tag · L: 12 €/Tag · SKI: 18 €/Tag",
+    "booking_online": true,
+    "booking_qr": true,
+    "booking_terminal": false
   },
   {
     "id": "aa77d66b-2861-4d3a-99ae-52d7260b18d6",
@@ -140,7 +375,27 @@
     "booking_url": "https://booking.holdmybag.net/homaris-ag/homaris-berlin-west-side/dates",
     "image_url": "/content/img/hmb/loc/aa77d66b-2861-4d3a-99ae-52d7260b18d6/6e9d696cf7b14ffdafdf4d4a51187821.webp",
     "description_short": "Die Gepäckschließfächer sind in der Lobby des Hotels frei zugänglich. Zutritt über den Haupteingang des Hotels mittels Zugangscode für die Gäste des Hotels.",
-    "translation_fallback": true
+    "translation_fallback": true,
+    "address": "Bundesallee 31A",
+    "zip": "10717",
+    "country": "DE",
+    "url": "https://holdmybag.net/standort/homaris-berlin-west-side/",
+    "url_en": "https://holdmybag.net/en/location/homaris-berlin-west-side/",
+    "md_url": "https://holdmybag.net/en/location/homaris-berlin-west-side.md",
+    "is_24_7": true,
+    "opening_hours": {
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": [],
+      "sun": []
+    },
+    "price_text": "Pakete 1/6/12/24 Std · M 2,50/3,50/5,00/7,00 € · L 3,50/6,00/7,00/9,00 € · XL 4,50/7,00/8,50/11,50 €",
+    "booking_online": true,
+    "booking_qr": true,
+    "booking_terminal": true
   },
   {
     "id": "ad65c06e-c575-43bd-8d7b-91bb2b4caff8",
@@ -153,7 +408,27 @@
     "booking_url": "https://booking.safecube.io/holdmybag/lockerstore-niddastrasse/dates",
     "image_url": "/content/img/hmb/loc/ad65c06e-c575-43bd-8d7b-91bb2b4caff8/62d40a9f7caf452aabd2ec8980c79670.webp",
     "description_short": "Holdmybag Locker Store, just a 3-minute walk from Frankfurt Central Station, featuring 75 high-quality lockers in a video-monitored facility. Easy access via QR code, with the option to book in advance.",
-    "translation_fallback": false
+    "translation_fallback": false,
+    "address": "Niddastr. 65",
+    "zip": "60329",
+    "country": "DE",
+    "url": "https://holdmybag.net/standort/lockerstore-niddastrasse/",
+    "url_en": "https://holdmybag.net/en/location/lockerstore-niddastrasse/",
+    "md_url": "https://holdmybag.net/en/location/lockerstore-niddastrasse.md",
+    "is_24_7": true,
+    "opening_hours": {
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": [],
+      "sun": []
+    },
+    "price_text": "Pakete 2/4/6/24 Std · M 2,00/3,50/4,00/5,00 € · L 3,00/5,00/6,00/7,00 € · XL 4,00/6,50/8,00/10,00 €",
+    "booking_online": true,
+    "booking_qr": true,
+    "booking_terminal": true
   },
   {
     "id": "b7881b04-771d-4b7a-99e5-5ef6f71fd580",
@@ -166,7 +441,62 @@
     "booking_url": "https://booking.holdmybag.net/elenas-apartments/city-stay-vienna-stephansplatz/dates",
     "image_url": null,
     "description_short": "_",
-    "translation_fallback": true
+    "translation_fallback": true,
+    "address": "Sonnenfelsgasse 7",
+    "zip": "1010",
+    "country": "AT",
+    "url": "https://holdmybag.net/standort/citystay-vienna/",
+    "url_en": "https://holdmybag.net/en/location/citystay-vienna/",
+    "md_url": "https://holdmybag.net/en/location/citystay-vienna.md",
+    "is_24_7": true,
+    "opening_hours": {
+      "mon": [
+        [
+          "05:00:00",
+          "23:00:00"
+        ]
+      ],
+      "tue": [
+        [
+          "05:00:00",
+          "23:00:00"
+        ]
+      ],
+      "wed": [
+        [
+          "05:00:00",
+          "23:00:00"
+        ]
+      ],
+      "thu": [
+        [
+          "05:00:00",
+          "23:00:00"
+        ]
+      ],
+      "fri": [
+        [
+          "05:00:00",
+          "23:00:00"
+        ]
+      ],
+      "sat": [
+        [
+          "05:00:00",
+          "23:00:00"
+        ]
+      ],
+      "sun": [
+        [
+          "05:00:00",
+          "23:00:00"
+        ]
+      ]
+    },
+    "price_text": "XS: 4,5 €/Tag · S: 5,9 €/Tag · M: 7,9 €/Tag · L: 9,9 €/Tag",
+    "booking_online": true,
+    "booking_qr": true,
+    "booking_terminal": true
   },
   {
     "id": "bda2d7e7-91bb-4357-9ed9-a5fb605f17c9",
@@ -179,7 +509,27 @@
     "booking_url": "https://booking.safecube.io/wienerriesenrad/wienerriesenrad/dates",
     "image_url": "/content/img/hmb/loc/bda2d7e7-91bb-4357-9ed9-a5fb605f17c9/35ef46e62c2a4ef399017b8f77f4ed5e.webp",
     "description_short": "The new Holdmybag / Variocube luggage lockers are located directly next to the entrance of the Vienna Giant Ferris Wheel (Wiener Riesenrad) in the Vienna Prater. Lockers are available in various sizes, including options for large suitcases.",
-    "translation_fallback": false
+    "translation_fallback": false,
+    "address": "Gaudeegasse 1",
+    "zip": "1020",
+    "country": "AT",
+    "url": "https://holdmybag.net/standort/wienerriesenrad/",
+    "url_en": "https://holdmybag.net/en/location/wienerriesenrad/",
+    "md_url": "https://holdmybag.net/en/location/wienerriesenrad.md",
+    "is_24_7": true,
+    "opening_hours": {
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": [],
+      "sun": []
+    },
+    "price_text": "Pakete 2 Std · S 3,00 € · M 3,50 € · L 4,00 € · XL 6,00 €",
+    "booking_online": true,
+    "booking_qr": true,
+    "booking_terminal": true
   },
   {
     "id": "e0e11e58-02cf-4b29-9ea2-f2b9f862359f",
@@ -192,7 +542,27 @@
     "booking_url": "https://booking.holdmybag.net/three-friends/heymi-apartments-zieglergasse/dates",
     "image_url": null,
     "description_short": "Der Luggage Locker steht in einem extra Raum im Hochparterre des Apartmenthauses und ist für de Gäste der HeyMi Apartments zugänglich.",
-    "translation_fallback": true
+    "translation_fallback": true,
+    "address": "Zieglergasse 6",
+    "zip": "1070",
+    "country": "AT",
+    "url": "https://holdmybag.net/standort/heymi-apartments-zieglergasse/",
+    "url_en": "https://holdmybag.net/en/location/heymi-apartments-zieglergasse/",
+    "md_url": "https://holdmybag.net/en/location/heymi-apartments-zieglergasse.md",
+    "is_24_7": true,
+    "opening_hours": {
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": [],
+      "sun": []
+    },
+    "price_text": "Pakete 3/6/12 Std · S 3,50/6,00/9,00 € · M 4,00/7,00/10,00 € · L 5,00/10,00/12,00 €",
+    "booking_online": true,
+    "booking_qr": true,
+    "booking_terminal": true
   },
   {
     "id": "f019f575-0548-4ed0-97de-1ad27db8e596",
@@ -205,7 +575,27 @@
     "booking_url": "https://booking.holdmybag.net/homaris-ag/homaris-apartmenthaus-coe48/dates",
     "image_url": null,
     "description_short": "Die Gepäckschließfächer befinden sich im Erdgeschoss des Homaris in einem extra Gepäckraum.",
-    "translation_fallback": true
+    "translation_fallback": true,
+    "address": "Köpenicker Str. 48",
+    "zip": "10179",
+    "country": "DE",
+    "url": "https://holdmybag.net/standort/homaris-k48-studios/",
+    "url_en": "https://holdmybag.net/en/location/homaris-k48-studios/",
+    "md_url": "https://holdmybag.net/en/location/homaris-k48-studios.md",
+    "is_24_7": true,
+    "opening_hours": {
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": [],
+      "sun": []
+    },
+    "price_text": "Pakete 1/6/12/24 Std · S 2,50/3,50/5,00/7,00 € · M 2,50/3,50/5,00/7,00 € · L 3,00/5,50/7,00/9,00 € · XL 4,50/7,50/8,50/11,50 €",
+    "booking_online": true,
+    "booking_qr": true,
+    "booking_terminal": false
   },
   {
     "id": "fe7d6255-a278-4021-97ae-6ed9522ecd95",
@@ -218,6 +608,61 @@
     "booking_url": "https://booking.safecube.io/str-kultur-und-betriebs-gmbH",
     "image_url": null,
     "description_short": "Zugang zum Garderoben Locker im Rahmen der Veranstaltungen und der Öffnungszeiten des Wizemann.",
-    "translation_fallback": true
+    "translation_fallback": true,
+    "address": "Quellenstraße 7",
+    "zip": "70376",
+    "country": "DE",
+    "url": "https://holdmybag.net/standort/im-wizemann-halle-stuttgart/",
+    "url_en": "https://holdmybag.net/en/location/im-wizemann-halle-stuttgart/",
+    "md_url": "https://holdmybag.net/en/location/im-wizemann-halle-stuttgart.md",
+    "is_24_7": true,
+    "opening_hours": {
+      "mon": [
+        [
+          "06:30:00",
+          "06:30:00"
+        ]
+      ],
+      "tue": [
+        [
+          "06:30:00",
+          "06:30:00"
+        ]
+      ],
+      "wed": [
+        [
+          "06:30:00",
+          "06:30:00"
+        ]
+      ],
+      "thu": [
+        [
+          "06:30:00",
+          "06:30:00"
+        ]
+      ],
+      "fri": [
+        [
+          "06:30:00",
+          "06:30:00"
+        ]
+      ],
+      "sat": [
+        [
+          "06:30:00",
+          "06:30:00"
+        ]
+      ],
+      "sun": [
+        [
+          "06:30:00",
+          "06:30:00"
+        ]
+      ]
+    },
+    "price_text": "Pakete 1 Tage · S 3,00 € · M 5,00 € · XL 8,00 €",
+    "booking_online": true,
+    "booking_qr": true,
+    "booking_terminal": false
   }
 ]
