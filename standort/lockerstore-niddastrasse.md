@@ -75,6 +75,7 @@ Abends ist der Store mit einem Rolltor gesichert. Jeder Nutzer des Stores kann d
 ## Support und Kontakt
 
 - Telefon: +43 720 676 300 90
+- E-Mail: office@holdmybag.net
 
 ---
 

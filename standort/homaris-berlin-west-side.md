@@ -57,6 +57,8 @@ Paketpreis: gilt für die gesamte Buchungsdauer.
 
 ## Support und Kontakt
 
+- Telefon: +43 720 6763000
+- E-Mail: office@holdmybag.net
 - Website: https://my.homaris.de/search/offers?PROPERTY_IDS=21201
 
 ---

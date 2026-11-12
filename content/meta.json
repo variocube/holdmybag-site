@@ -1,12 +1,12 @@
 {
   "env": "prod",
-  "publish_ts": "2026-11-11T13:00:49.266714+00:00",
+  "publish_ts": "2026-11-12T07:41:12.023430+00:00",
   "source_commit": "",
   "lang": "de",
   "ga4_id": "G-ZCVKJGX0MN",
   "gtm_id": null,
   "consent_cookie_name": "hmb_consent",
-  "location_count": 17,
+  "location_count": 18,
   "sc_verification_token": null,
   "redirects_count": 0
 }

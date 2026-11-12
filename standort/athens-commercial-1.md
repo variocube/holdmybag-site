@@ -58,6 +58,7 @@ Beschreibung Beschreibung Beschreibung Beschreibung Beschreibung Beschreibung Be
 ## Support und Kontakt
 
 - Telefon: 2104446589
+- E-Mail: office@holdmybag.net
 
 ---
 

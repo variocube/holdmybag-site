@@ -77,6 +77,7 @@ In the evening, the store is additionally secured by a roller shutter. Customers
 ## Support and contact
 
 - Phone: +43 720 676 300 90
+- Email: office@holdmybag.net
 
 ---
 

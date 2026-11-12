@@ -31,6 +31,7 @@ Holdmybag is a network of luggage lockers for travellers, commuters and shoppers
 - [Balmers Hostel \| Interlaken](https://holdmybag.net/en/location/balmers-hostel-interlaken/): Matten bei Interlaken, CH; open 24/7; booking: online, QR code, terminal. Page: [DE](https://holdmybag.net/standort/balmers-hostel-interlaken/), [EN](https://holdmybag.net/en/location/balmers-hostel-interlaken/). Markdown: [DE](https://holdmybag.net/standort/balmers-hostel-interlaken.md), [EN](https://holdmybag.net/en/location/balmers-hostel-interlaken.md).
 - [Homaris Berlin West Side](https://holdmybag.net/en/location/homaris-berlin-west-side/): Berlin, DE; open 24/7; booking: online, QR code, terminal. Page: [DE](https://holdmybag.net/standort/homaris-berlin-west-side/), [EN](https://holdmybag.net/en/location/homaris-berlin-west-side/). Markdown: [DE](https://holdmybag.net/standort/homaris-berlin-west-side.md), [EN](https://holdmybag.net/en/location/homaris-berlin-west-side.md).
 - [Homaris K48 Studios](https://holdmybag.net/en/location/homaris-k48-studios/): Berlin, DE; open 24/7; booking: online, QR code. Page: [DE](https://holdmybag.net/standort/homaris-k48-studios/), [EN](https://holdmybag.net/en/location/homaris-k48-studios/). Markdown: [DE](https://holdmybag.net/standort/homaris-k48-studios.md), [EN](https://holdmybag.net/en/location/homaris-k48-studios.md).
+- [Schulz Hotel Berliner Mauer](https://holdmybag.net/en/location/schulz-hotel-berliner-mauer/): Berlin Friedrichshain-Kreuzberg, DE; open 24/7; booking: online, QR code, terminal. Page: [DE](https://holdmybag.net/standort/schulz-hotel-berliner-mauer/), [EN](https://holdmybag.net/en/location/schulz-hotel-berliner-mauer/). Markdown: [DE](https://holdmybag.net/standort/schulz-hotel-berliner-mauer.md), [EN](https://holdmybag.net/en/location/schulz-hotel-berliner-mauer.md).
 - [Burghausen Stadtplatz](https://holdmybag.net/en/location/burghausen/): Burghausen, DE; open 24/7; booking: QR code. Page: [DE](https://holdmybag.net/standort/burghausen/), [EN](https://holdmybag.net/en/location/burghausen/). Markdown: [DE](https://holdmybag.net/standort/burghausen.md), [EN](https://holdmybag.net/en/location/burghausen.md).
 - [Holdmybag Locker Store Frankfurt am Main - Niddastr. 63](https://holdmybag.net/en/location/lockerstore-niddastrasse/): Frankfurt am Main, DE; open 24/7; booking: online, QR code, terminal. Page: [DE](https://holdmybag.net/standort/lockerstore-niddastrasse/), [EN](https://holdmybag.net/en/location/lockerstore-niddastrasse/). Markdown: [DE](https://holdmybag.net/standort/lockerstore-niddastrasse.md), [EN](https://holdmybag.net/en/location/lockerstore-niddastrasse.md).
 - [Im Wizemann Halle Stuttgart](https://holdmybag.net/en/location/im-wizemann-halle-stuttgart/): Stuttgart, DE; open 24/7; booking: online, QR code. Page: [DE](https://holdmybag.net/standort/im-wizemann-halle-stuttgart/), [EN](https://holdmybag.net/en/location/im-wizemann-halle-stuttgart/). Markdown: [DE](https://holdmybag.net/standort/im-wizemann-halle-stuttgart.md), [EN](https://holdmybag.net/en/location/im-wizemann-halle-stuttgart.md).
@@ -116,6 +117,7 @@ Package price: covers the entire booking period.
 #### Support and contact
 
 - Phone: +43 720 676 300 90
+- Email: office@holdmybag.net
 
 ---
 
@@ -181,6 +183,7 @@ Package price: covers the entire booking period.
 #### Support and contact
 
 - Phone: +43 662 46 88 0
+- Email: office@holdmybag.net
 - Website: https://www.gchhotelgroup.com/de/hotel/radisson-blu-hotel-conference-centre-salzburg?gad_source=1&gad_campaignid=1330991487&gbraid=0AAAAADxUAX4U0RG021jFkogrl-jkTt_zH&gclid=Cj0KCQjwkt_UBhDMARIsALpnOAzN9osWIOlqzeWuBjYXOeXpn0QunLtOv_dOIqinTwftffeArlvCMvIaAibMEALw_wcB
 
 ---
@@ -235,6 +238,8 @@ Open 24/7.
 
 #### Support and contact
 
+- Phone: +43 720 6763000
+- Email: office@holdmybag.net
 - Website: https://www.citylocker.store/#galerie
 
 ---
@@ -302,6 +307,7 @@ Package price: covers the entire booking period.
 #### Support and contact
 
 - Phone: +43 1 310 23 29
+- Email: office@holdmybag.net
 
 ---
 
@@ -365,6 +371,7 @@ Package price: covers the entire booking period.
 #### Support and contact
 
 - Phone: +43 1 310 23 29
+- Email: office@holdmybag.net
 
 ---
 
@@ -421,6 +428,11 @@ Open 24/7.
 #### Amenities
 
 - 24/7 access
+
+#### Support and contact
+
+- Phone: +43 720 6763000
+- Email: office@holdmybag.net
 
 ---
 
@@ -495,6 +507,7 @@ In case of an emergency outside support hours, assistance will only be available
 #### Support and contact
 
 - Phone: +43 720 676 300 90
+- Email: office@holdmybag.net
 - Website: https://www.praterwien.com/
 
 ---
@@ -546,6 +559,11 @@ Open 24/7.
 - 24/7 access
 - Wheelchair accessible
 - Parking
+
+#### Support and contact
+
+- Phone: +43 720 6763000
+- Email: office@holdmybag.net
 
 ---
 
@@ -609,6 +627,7 @@ Package price: covers the entire booking period.
 #### Support and contact
 
 - Phone: +41 338221961
+- Email: office@holdmybag.net
 
 ---
 
@@ -673,6 +692,8 @@ Package price: covers the entire booking period.
 
 #### Support and contact
 
+- Phone: +43 720 6763000
+- Email: office@holdmybag.net
 - Website: https://my.homaris.de/search/offers?PROPERTY_IDS=21201
 
 ---
@@ -731,6 +752,78 @@ Package price: covers the entire booking period.
 | L | 5 × 4 × 4 cm | großer Rucksack |
 | XL |  | große Reisekoffer bis 81 cm Höhe / Big Trolleys |
 
+#### Support and contact
+
+- Phone: +43 720 6763000
+- Email: office@holdmybag.net
+
+---
+
+Source: holdmybag.net — Holdmybag luggage storage. Operator and contractual partner: Holdmybag GmbH.
+
+### Schulz Hotel Berliner Mauer
+
+> Luggage storage (lockers) by Holdmybag
+>
+> Direkt gegenüber vom Ostbahnhof, nur wenige Schritte von der East Side Gallery und der Spree entfernt. Im Schulz bist du schnell überall und trotzdem mittendrin in Friedrichshain.
+
+- Web page: https://holdmybag.net/en/location/schulz-hotel-berliner-mauer/
+- Deutsche Version: https://holdmybag.net/standort/schulz-hotel-berliner-mauer/
+- Markdown (Deutsch): https://holdmybag.net/standort/schulz-hotel-berliner-mauer.md
+
+#### Address and map
+
+- Address: Stralauer Platz 36, 10243 Berlin Friedrichshain-Kreuzberg, DE
+- Coordinates (latitude, longitude): 52.5086605, 13.4312769
+- Directions: https://www.google.com/maps/dir/?api=1&destination=52.5086605,13.4312769
+
+#### Opening hours
+
+Open 24/7.
+
+#### Booking and payment
+
+- Online: Reserve and pay for a locker in advance; the access code arrives by email. [Book now](https://booking.holdmybag.net/)
+- On site by smartphone: Scan the QR code on the locker, choose a compartment and pay on your phone. Payment methods: Card.
+- On site at the terminal: Choose a compartment on the screen and pay by card or contactless at the terminal. Payment methods: Card.
+
+#### Prices
+
+Package prices (total):
+
+| Duration | S | M | L | XL |
+| --- | --- | --- | --- | --- |
+| 2 hrs | 1,50 € | 2,50 € | 3,50 € | 4,50 € |
+| 4 hrs | 2,50 € | 3,50 € | 4,50 € | 5,50 € |
+| 6 hrs | 3,50 € | 4,50 € | 5,50 € | 6,50 € |
+| 12 hrs | 5,50 € | 6,50 € | 7,50 € | 8,50 € |
+| 24 hrs | 9,50 € | 10,50 € | 11,50 € | 12,50 € |
+
+Package price: covers the entire booking period.
+
+#### Locker sizes
+
+| Size | Dimensions (W×H×D) | Note |
+| --- | --- | --- |
+| S | 46 × 28 × 95 cm | Helm, Rucksack, Laptoptasche |
+| M | 46 × 43 × 65 cm | großer Rucksack, Handgepäck-Trolley bis 20″ / 50 cm Höhe |
+| L | 46 × 58 × 95 cm | mittelgroßer Trolley bis 23″ / 55 cm Höhe, auch lange Gegenstände bis 90 cm |
+| XL | 46 × 73 × 65 cm | großer Trolley bis 32″ / 82 cm Höhe |
+
+#### Amenities
+
+- 24/7 access
+- Covered
+
+#### About this location
+
+Direkt gegenüber vom Ostbahnhof, nur wenige Schritte von der East Side Gallery und der Spree entfernt. Im Schulz bist du schnell überall und trotzdem mittendrin in Friedrichshain.
+
+#### Support and contact
+
+- Phone: 030214801529
+- Email: office@holdmybag.net
+
 ---
 
 Source: holdmybag.net — Holdmybag luggage storage. Operator and contractual partner: Holdmybag GmbH.
@@ -784,6 +877,7 @@ Package price: covers the entire booking period.
 #### Support and contact
 
 - Phone: +49 8677 887 140
+- Email: office@holdmybag.net
 
 ---
 
@@ -868,6 +962,7 @@ In the evening, the store is additionally secured by a roller shutter. Customers
 #### Support and contact
 
 - Phone: +43 720 676 300 90
+- Email: office@holdmybag.net
 
 ---
 
@@ -924,6 +1019,7 @@ Package price: covers the entire booking period.
 #### Support and contact
 
 - Phone: +4915154802643
+- Email: office@holdmybag.net
 
 ---
 
@@ -985,6 +1081,7 @@ Package price: covers the entire booking period.
 #### Support and contact
 
 - Phone: +497119554513
+- Email: office@holdmybag.net
 - Website: https://www.hallenduo.de/de/home/besucher-infos/garderobe-gepaeck
 
 ---
@@ -1051,6 +1148,7 @@ Beschreibung Beschreibung Beschreibung Beschreibung Beschreibung Beschreibung Be
 #### Support and contact
 
 - Phone: 2104446589
+- Email: office@holdmybag.net
 
 ---
 
@@ -1124,6 +1222,7 @@ Package price: covers the entire booking period.
 #### Support and contact
 
 - Phone: +39473742417
+- Email: office@holdmybag.net
 - Website: https://www.waltherpark.com/
 
 ---
