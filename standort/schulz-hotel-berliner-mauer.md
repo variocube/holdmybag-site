@@ -20,7 +20,7 @@
 
 ## Buchen und Bezahlen
 
-- Online: Fach vorab reservieren und bezahlen, der Zugangscode kommt per E-Mail. [Jetzt buchen](https://booking.holdmybag.net/)
+- Online: Fach vorab reservieren und bezahlen, der Zugangscode kommt per E-Mail. [Jetzt buchen](https://booking.holdmybag.net/hotel-schulz/stralauer-platz-36)
 - Vor Ort per Smartphone: QR-Code am Locker scannen, Fach wählen, am Handy zahlen. Zahlungsarten: Karte.
 - Vor Ort am Terminal: Am Display Fach wählen, am Terminal mit Karte oder kontaktlos zahlen. Zahlungsarten: Karte.
 
