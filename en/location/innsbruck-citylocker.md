@@ -2,7 +2,7 @@
 
 > Luggage storage (lockers) by Holdmybag
 >
-> Zugang zum Store über den Haupteingang zum Store.
+> Access to the store is via the main entrance.
 
 - Web page: https://holdmybag.net/en/location/innsbruck-citylocker/
 - Deutsche Version: https://holdmybag.net/standort/innsbruck-citylocker/

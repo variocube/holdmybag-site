@@ -2,7 +2,7 @@
 
 > Luggage storage (lockers) by Holdmybag
 >
-> Die Gepäckschließfächer sind in der Lobby des Hotels frei zugänglich. Zutritt über den Haupteingang des Hotels mittels Zugangscode für die Gäste des Hotels.
+> The luggage lockers are freely accessible in the hotel lobby. Access is via the hotel's main entrance using an access code for hotel guests.
 
 - Web page: https://holdmybag.net/en/location/homaris-berlin-west-side/
 - Deutsche Version: https://holdmybag.net/standort/homaris-berlin-west-side/
@@ -16,7 +16,7 @@
 
 ## Getting there and access
 
-Im Rahmen des Hotelzugangs. Zugang für die Gäste über den Code des Hotels.
+As part of the hotel access. Guests have access via the hotel's code.
 
 ## Opening hours
 
@@ -45,9 +45,9 @@ Package price: covers the entire booking period.
 
 | Size | Dimensions (W×H×D) | Note |
 | --- | --- | --- |
-| M | 46 × 28 × 45 cm | Laptop Tasche |
-| L | 46 × 43 × 45 cm | Trolley plus kleine Tasche, Rucksäcke |
-| XL | 46 × 88 × 45 cm | große Reisekoffer bis 81 cm Höhe / Big Trolleys |
+| M | 46 × 28 × 45 cm | Laptop bag |
+| L | 46 × 43 × 45 cm | Trolley plus small bag, backpacks |
+| XL | 46 × 88 × 45 cm | Large suitcases up to 81 cm height / Big Trolleys |
 
 ## Amenities
 

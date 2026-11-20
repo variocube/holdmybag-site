@@ -2,7 +2,7 @@
 
 > Luggage storage (lockers) by Holdmybag
 >
-> Die Gepäckschließfächer befinden sich im Erdgeschoss des Homaris in einem extra Gepäckraum.
+> The luggage lockers are located on the ground floor of the Homaris in a separate luggage room.
 
 - Web page: https://holdmybag.net/en/location/homaris-k48-studios/
 - Deutsche Version: https://holdmybag.net/standort/homaris-k48-studios/
@@ -16,7 +16,7 @@
 
 ## Getting there and access
 
-Zutritt für Gäste des Homaris. Öffnungszeiten sind analog der Zutrittszeiten für die Gäste.
+Access for guests of Homaris. Opening hours are the same as the access times for guests.
 
 ## Opening hours
 
@@ -45,10 +45,10 @@ Package price: covers the entire booking period.
 
 | Size | Dimensions (W×H×D) | Note |
 | --- | --- | --- |
-| S | 5 × 1 × 4 cm | Jacke / Handtasche |
-| M | 5 × 3 × 4 cm | Helm / Rucksack |
-| L | 5 × 4 × 4 cm | großer Rucksack |
-| XL |  | große Reisekoffer bis 81 cm Höhe / Big Trolleys |
+| S | 5 × 1 × 4 cm | Jacket / Handbag |
+| M | 5 × 3 × 4 cm | Helmet / Backpack |
+| L | 5 × 4 × 4 cm | large backpack |
+| XL |  | Large suitcases up to 81 cm height / Big Trolleys |
 
 ## Support and contact
 

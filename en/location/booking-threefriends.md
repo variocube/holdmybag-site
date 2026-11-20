@@ -2,7 +2,7 @@
 
 > Luggage storage (lockers) by Holdmybag
 >
-> Die Gepäckschließfächer (Luggage Locker) befinden sich im Untergeschoss der Heymi Appartments Mondscheingasse.
+> The luggage lockers are located in the basement of the Heymi Apartments Mondscheingasse.
 
 - Web page: https://holdmybag.net/en/location/booking-threefriends/
 - Deutsche Version: https://holdmybag.net/standort/booking-threefriends/
@@ -16,7 +16,7 @@
 
 ## Getting there and access
 
-Zugang über den Eingang zum Apartment Haus (Haupteingang) von der Mondescheingasse aus. Dann auf der Treppe in das Untergeschoss.
+Access is via the entrance to the apartment building (main entrance) from Mondescheingasse. Then take the stairs to the basement.
 
 ## Opening hours
 
@@ -44,11 +44,11 @@ Package price: covers the entire booking period.
 
 | Size | Dimensions (W×H×D) | Note |
 | --- | --- | --- |
-| S | 46 × 13 × 45 cm | Jacke / Handtasche |
-| M | 46 × 28 × 45 cm | Helm / Rucksack |
-| L | 46 × 43 × 45 cm | großer Rucksack |
-| XL | 46 × 58 × 45 cm | mittelgroßer Trolley bis 23” / 58cm Höhe |
-| XXL | 46 × 73 × 45 cm | großer Trolley bis 28” / 71cm Höhe |
+| S | 46 × 13 × 45 cm | Jacket / Handbag |
+| M | 46 × 28 × 45 cm | Helmet / Backpack |
+| L | 46 × 43 × 45 cm | large backpack |
+| XL | 46 × 58 × 45 cm | medium-sized trolley up to 23” / 58cm height |
+| XXL | 46 × 73 × 45 cm | large trolley up to 28” / 71cm height |
 
 ## Amenities
 

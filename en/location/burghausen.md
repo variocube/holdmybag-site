@@ -2,7 +2,7 @@
 
 > Luggage storage (lockers) by Holdmybag
 >
-> Zugang am Gemeindeamt
+> Access at the municipal office
 
 - Web page: https://holdmybag.net/en/location/burghausen/
 - Deutsche Version: https://holdmybag.net/standort/burghausen/
@@ -16,7 +16,7 @@
 
 ## Getting there and access
 
-Im Eingang zum Gemeindeamt
+At the entrance to the municipal office
 
 ## Opening hours
 

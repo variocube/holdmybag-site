@@ -1,8 +1,6 @@
 # Athens Commercial 1-7
 
 > Gepäckaufbewahrung (Schließfächer) von Holdmybag
->
-> Kurzbeschreibung
 
 - Webseite: https://holdmybag.net/standort/athens-commercial-1/
 - English version: https://holdmybag.net/en/location/athens-commercial-1/
@@ -16,7 +14,7 @@
 
 ## Anfahrt und Zugang
 
-The lockers 1-20 and the control unit is located in mezzanine level of the hotel. Lockers 21-30 are on the ground floor. Just 6 minutes’ walk from Monastiraki Metro Station (400m). The hotel entrance is through the passage of Noel cocktail bar. If the door is closed (maybe between 02:00 and 07:00) please ask the security personnel to open it for you!
+Die Schließfächer 1–20 sowie die Steuereinheit befinden sich im Zwischengeschoss des Hotels. Die Schließfächer 21–30 befinden sich im Erdgeschoss. Die U-Bahn-Station Monastiraki ist nur 6 Gehminuten (400 m) entfernt. Der Hoteleingang erfolgt über den Durchgang der Cocktailbar „Noel“. Sollte die Tür geschlossen sein (etwa in der Zeit zwischen 02:00 und 07:00 Uhr), bitten Sie bitte das Sicherheitspersonal, sie für Sie zu öffnen!
 
 ## Öffnungszeiten
 
@@ -50,10 +48,6 @@ The lockers 1-20 and the control unit is located in mezzanine level of the hotel
 - Videoüberwacht
 - Beleuchtet
 - Überdacht / innen
-
-## Über diesen Standort
-
-Beschreibung Beschreibung Beschreibung Beschreibung Beschreibung Beschreibung Beschreibung Beschreibung Beschreibung Beschreibung Beschreibung Beschreibung Beschreibung Beschreibung Beschreibung Beschreibung Beschreibung test2
 
 ## Support und Kontakt
 

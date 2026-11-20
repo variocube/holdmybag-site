@@ -2,7 +2,7 @@
 
 > Luggage storage (lockers) by Holdmybag
 >
-> Der Luggage Locker steht in einem extra Raum im Hochparterre des Apartmenthauses und ist für de Gäste der HeyMi Apartments zugänglich.
+> The luggage locker is located in a separate room on the raised ground floor of the apartment building and is accessible to guests of the HeyMi Apartments.
 
 - Web page: https://holdmybag.net/en/location/heymi-apartments-zieglergasse/
 - Deutsche Version: https://holdmybag.net/standort/heymi-apartments-zieglergasse/
@@ -16,7 +16,7 @@
 
 ## Getting there and access
 
-Zugang für die Gäste der HeyMi Apartments mit Zugangscode oder Hotelinformationen.
+Access for guests of HeyMi Apartments with access code or hotel information.
 
 ## Opening hours
 
@@ -44,9 +44,9 @@ Package price: covers the entire booking period.
 
 | Size | Dimensions (W×H×D) | Note |
 | --- | --- | --- |
-| S | 46 × 28 × 45 cm | Helm / Rucksack |
-| M | 46 × 43 × 45 cm | großer Rucksack |
-| L | 46 × 88 × 45 cm | großer Trolley bis 32” / 81cm Höhe |
+| S | 46 × 28 × 45 cm | Helmet / Backpack |
+| M | 46 × 43 × 45 cm | large backpack |
+| L | 46 × 88 × 45 cm | large trolley up to 32” / 81cm height |
 
 ## Amenities
 

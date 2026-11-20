@@ -2,7 +2,7 @@
 
 > Luggage storage (lockers) by Holdmybag
 >
-> Die Garderoben Schließfächer befinden sich im Untergeschoss, direkt neben den manuellen Garderoben.
+> The cloakroom lockers are located in the basement, right next to the manual cloakrooms.
 
 - Web page: https://holdmybag.net/en/location/stuttgart-hallenduo/
 - Deutsche Version: https://holdmybag.net/standort/stuttgart-hallenduo/
@@ -16,7 +16,7 @@
 
 ## Getting there and access
 
-Die Schließfächer sind im Untergeschoss an den manuellen Garderobenbereichen und werden als bequemer einfacher Ersatz für die "manuelle" Garderobe benutzt. Der Zugang ist nur im Rahmen der Veranstaltungen zugänglich.
+The lockers are located in the basement near the manual cloakroom areas and serve as a convenient and simple alternative to the "manual" cloakroom. Access is only permitted during events.
 
 ## Opening hours
 

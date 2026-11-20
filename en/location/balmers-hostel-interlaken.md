@@ -2,7 +2,7 @@
 
 > Luggage storage (lockers) by Holdmybag
 >
-> Gepäckschließfächer im Hotel im extra Gepäckraum. Zutritt von außen für die Gäste des Balmers Hostel.
+> Luggage lockers are available in the hotel's separate luggage room. Access is from outside for guests of Balmers Hostel.
 
 - Web page: https://holdmybag.net/en/location/balmers-hostel-interlaken/
 - Deutsche Version: https://holdmybag.net/standort/balmers-hostel-interlaken/
@@ -16,7 +16,7 @@
 
 ## Getting there and access
 
-Im Hotel Balmers, Durchgang über den Haupteingang. Öffnungszeiten sind analog der Hotelzeiten und der Zutrittszeiten für Gäste.
+At Hotel Balmers, access is via the main entrance. Opening hours are the same as the hotel hours and guest access times.
 
 ## Opening hours
 

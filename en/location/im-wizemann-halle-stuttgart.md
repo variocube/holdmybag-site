@@ -2,7 +2,7 @@
 
 > Luggage storage (lockers) by Holdmybag
 >
-> Zugang zum Garderoben Locker im Rahmen der Veranstaltungen und der Öffnungszeiten des Wizemann.
+> Access to the cloakroom lockers is available during Wizemann events and opening hours.
 
 - Web page: https://holdmybag.net/en/location/im-wizemann-halle-stuttgart/
 - Deutsche Version: https://holdmybag.net/standort/im-wizemann-halle-stuttgart/
@@ -16,7 +16,7 @@
 
 ## Getting there and access
 
-Zugang zum Garderoben Locker im Rahmen der Veranstaltungen und der Öffnungszeiten des Wizemann.
+Access to the cloakroom lockers is available during Wizemann events and opening hours.
 
 ## Opening hours
 
@@ -42,9 +42,9 @@ Package price: covers the entire booking period.
 
 | Size | Dimensions (W×H×D) | Note |
 | --- | --- | --- |
-| S | 32 × 13 × 65 cm | Jacke / Handtasche |
-| M | 32 × 28 × 65 cm | Helm / Rucksack |
-| XL | 32 × 73 × 65 cm | Koffer |
+| S | 32 × 13 × 65 cm | Jacket / Handbag |
+| M | 32 × 28 × 65 cm | Helmet / Backpack |
+| XL | 32 × 73 × 65 cm | Suitcase |
 
 ## Support and contact
 

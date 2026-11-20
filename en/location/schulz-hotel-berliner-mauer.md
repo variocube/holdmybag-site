@@ -2,7 +2,7 @@
 
 > Luggage storage (lockers) by Holdmybag
 >
-> Direkt gegenüber vom Ostbahnhof, nur wenige Schritte von der East Side Gallery und der Spree entfernt. Im Schulz bist du schnell überall und trotzdem mittendrin in Friedrichshain.
+> Directly opposite Ostbahnhof (East Station), just steps from the East Side Gallery and the Spree River. At Schulz, you can get anywhere quickly, yet still be right in the heart of Friedrichshain.
 
 - Web page: https://holdmybag.net/en/location/schulz-hotel-berliner-mauer/
 - Deutsche Version: https://holdmybag.net/standort/schulz-hotel-berliner-mauer/
@@ -42,10 +42,10 @@ Package price: covers the entire booking period.
 
 | Size | Dimensions (W×H×D) | Note |
 | --- | --- | --- |
-| S | 46 × 28 × 95 cm | Helm, Rucksack, Laptoptasche |
-| M | 46 × 43 × 65 cm | großer Rucksack, Handgepäck-Trolley bis 20″ / 50 cm Höhe |
-| L | 46 × 58 × 95 cm | mittelgroßer Trolley bis 23″ / 55 cm Höhe, auch lange Gegenstände bis 90 cm |
-| XL | 46 × 73 × 65 cm | großer Trolley bis 32″ / 82 cm Höhe |
+| S | 46 × 28 × 95 cm | Helmet, backpack, laptop bag |
+| M | 46 × 43 × 65 cm | large backpack, hand luggage trolley up to 20″ / 50 cm height |
+| L | 46 × 58 × 95 cm | Medium-sized trolley up to 23″ / 55 cm height, also suitable for long items up to 90 cm |
+| XL | 46 × 73 × 65 cm | large trolley up to 32″ / 82 cm height |
 
 ## Amenities
 
@@ -54,7 +54,7 @@ Package price: covers the entire booking period.
 
 ## About this location
 
-Direkt gegenüber vom Ostbahnhof, nur wenige Schritte von der East Side Gallery und der Spree entfernt. Im Schulz bist du schnell überall und trotzdem mittendrin in Friedrichshain.
+Directly opposite Ostbahnhof (East Station), just steps from the East Side Gallery and the Spree River. At Schulz, you can get anywhere quickly, yet still be right in the heart of Friedrichshain.
 
 ## Support and contact
 
