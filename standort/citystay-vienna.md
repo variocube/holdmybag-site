@@ -52,8 +52,8 @@ Lieber Gast! Es ist uns eine Freude, Ihnen unseren neuen Gepäckaufbewahrungsser
 
 ## Support und Kontakt
 
-- Telefon: +43 720 6763000
-- E-Mail: office@holdmybag.net
+- Telefon: +43 720 676300-99
+- E-Mail: support@variocube.com
 
 ---
 

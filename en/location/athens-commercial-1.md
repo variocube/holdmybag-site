@@ -1,6 +1,8 @@
 # Athens Commercial 1-7
 
 > Luggage storage (lockers) by Holdmybag
+>
+> Comfortable lockers
 
 - Web page: https://holdmybag.net/en/location/athens-commercial-1/
 - Deutsche Version: https://holdmybag.net/standort/athens-commercial-1/
@@ -48,6 +50,10 @@ Open 24/7.
 - CCTV
 - Lighting
 - Covered
+
+## About this location
+
+Use the lockers before check-in or after check-out and enjoy the city without heavy luggage.
 
 ## Support and contact
 

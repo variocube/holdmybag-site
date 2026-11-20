@@ -10,7 +10,7 @@
 
 ## Address and map
 
-- Address: Silvrettaplatz 4, 6561 Ischgl
+- Address: Silvrettaplatz 4, 6561 Ischgl, AT
 - Coordinates (latitude, longitude): 47.009572, 10.2883469
 - Directions: https://www.google.com/maps/dir/?api=1&destination=47.009572,10.2883469
 

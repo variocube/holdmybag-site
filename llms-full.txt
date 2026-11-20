@@ -20,9 +20,9 @@ Holdmybag is a network of luggage lockers for travellers, commuters and shoppers
 
 ## Locations
 
-- [Fire and Ice Ischgl](https://holdmybag.net/en/location/fire-and-ice-ischgl/): Ischgl; open 24/7; booking: online, QR code, terminal. Page: [DE](https://holdmybag.net/standort/fire-and-ice-ischgl/), [EN](https://holdmybag.net/en/location/fire-and-ice-ischgl/). Markdown: [DE](https://holdmybag.net/standort/fire-and-ice-ischgl.md), [EN](https://holdmybag.net/en/location/fire-and-ice-ischgl.md).
-- [Radisson Blu Hotel & Conference Centre, Salzburg](https://holdmybag.net/en/location/wyndham-grand-salzburg-conference-centre-hotel/): Salzburg; open 24/7; booking: online, QR code, terminal. Page: [DE](https://holdmybag.net/standort/wyndham-grand-salzburg-conference-centre-hotel/), [EN](https://holdmybag.net/en/location/wyndham-grand-salzburg-conference-centre-hotel/). Markdown: [DE](https://holdmybag.net/standort/wyndham-grand-salzburg-conference-centre-hotel.md), [EN](https://holdmybag.net/en/location/wyndham-grand-salzburg-conference-centre-hotel.md).
 - [Innsbruck Citylocker.store – Altstadt Innsbruck](https://holdmybag.net/en/location/innsbruck-citylocker/): Innsbruck, AT; open 24/7; booking: online, QR code. Page: [DE](https://holdmybag.net/standort/innsbruck-citylocker/), [EN](https://holdmybag.net/en/location/innsbruck-citylocker/). Markdown: [DE](https://holdmybag.net/standort/innsbruck-citylocker.md), [EN](https://holdmybag.net/en/location/innsbruck-citylocker.md).
+- [Fire and Ice Ischgl](https://holdmybag.net/en/location/fire-and-ice-ischgl/): Ischgl, AT; open 24/7; booking: online, QR code, terminal. Page: [DE](https://holdmybag.net/standort/fire-and-ice-ischgl/), [EN](https://holdmybag.net/en/location/fire-and-ice-ischgl/). Markdown: [DE](https://holdmybag.net/standort/fire-and-ice-ischgl.md), [EN](https://holdmybag.net/en/location/fire-and-ice-ischgl.md).
+- [Radisson Blu Hotel & Conference Centre, Salzburg](https://holdmybag.net/en/location/wyndham-grand-salzburg-conference-centre-hotel/): Salzburg, AT; open 24/7; booking: online, QR code, terminal. Page: [DE](https://holdmybag.net/standort/wyndham-grand-salzburg-conference-centre-hotel/), [EN](https://holdmybag.net/en/location/wyndham-grand-salzburg-conference-centre-hotel/). Markdown: [DE](https://holdmybag.net/standort/wyndham-grand-salzburg-conference-centre-hotel.md), [EN](https://holdmybag.net/en/location/wyndham-grand-salzburg-conference-centre-hotel.md).
 - [HeyMi Apartments Mondscheingasse](https://holdmybag.net/en/location/booking-threefriends/): Wien, AT; open 24/7; booking: online, QR code, terminal. Page: [DE](https://holdmybag.net/standort/booking-threefriends/), [EN](https://holdmybag.net/en/location/booking-threefriends/). Markdown: [DE](https://holdmybag.net/standort/booking-threefriends.md), [EN](https://holdmybag.net/en/location/booking-threefriends.md).
 - [HeyMi Apartments Zieglergasse](https://holdmybag.net/en/location/heymi-apartments-zieglergasse/): Wien, AT; open 24/7; booking: online, QR code, terminal. Page: [DE](https://holdmybag.net/standort/heymi-apartments-zieglergasse/), [EN](https://holdmybag.net/en/location/heymi-apartments-zieglergasse/). Markdown: [DE](https://holdmybag.net/standort/heymi-apartments-zieglergasse.md), [EN](https://holdmybag.net/en/location/heymi-apartments-zieglergasse.md).
 - [Wien City Stay Vienna Stephansplatz](https://holdmybag.net/en/location/citystay-vienna/): Wien, AT; open 24/7; booking: online, QR code, terminal. Page: [DE](https://holdmybag.net/standort/citystay-vienna/), [EN](https://holdmybag.net/en/location/citystay-vienna/). Markdown: [DE](https://holdmybag.net/standort/citystay-vienna.md), [EN](https://holdmybag.net/en/location/citystay-vienna.md).
@@ -62,6 +62,62 @@ Holdmybag is a network of luggage lockers for travellers, commuters and shoppers
 
 ## Location details
 
+### Innsbruck Citylocker.store – Altstadt Innsbruck
+
+> Luggage storage (lockers) by Holdmybag
+>
+> Access to the store is via the main entrance.
+
+- Web page: https://holdmybag.net/en/location/innsbruck-citylocker/
+- Deutsche Version: https://holdmybag.net/standort/innsbruck-citylocker/
+- Markdown (Deutsch): https://holdmybag.net/standort/innsbruck-citylocker.md
+
+#### Address and map
+
+- Address: Marktgraben 13, 6020 Innsbruck, AT
+- Coordinates (latitude, longitude): 47.2673221, 11.392071
+- Directions: https://www.google.com/maps/dir/?api=1&destination=47.2673221,11.392071
+
+#### Opening hours
+
+Open 24/7.
+
+#### Booking and payment
+
+- Online: Reserve and pay for a locker in advance; the access code arrives by email. [Book now](https://booking.citylocker.store/citylocker-store/citylocker.store/dates)
+- On site by smartphone: Scan the QR code on the locker, choose a compartment and pay on your phone.
+- On site at the terminal: not available at this location.
+
+#### Prices
+
+| Size | Price |
+| --- | --- |
+| XS | 3 €/day |
+| S | 6 €/day |
+| M | 8 €/day |
+| L | 12 €/day |
+| SKI | 18 €/day |
+
+#### Locker sizes
+
+| Size | Dimensions (W×H×D) | Note |
+| --- | --- | --- |
+| XS | 46 × 13 × 65 cm |  |
+| S | 46 × 28 × 65 cm |  |
+| M | 46 × 43 × 95 cm |  |
+| L | 46 × 73 × 95 cm |  |
+| SKI | 38 × 180 × 45 cm |  |
+
+#### Support and contact
+
+- Phone: +43 720 676300
+- Email: support@variocube.com
+- Website: https://www.citylocker.store/#galerie
+
+---
+
+Source: holdmybag.net — Holdmybag luggage storage. Operator and contractual partner: Holdmybag GmbH.
+
 ### Fire and Ice Ischgl
 
 > Luggage storage (lockers) by Holdmybag
@@ -74,7 +130,7 @@ Holdmybag is a network of luggage lockers for travellers, commuters and shoppers
 
 #### Address and map
 
-- Address: Silvrettaplatz 4, 6561 Ischgl
+- Address: Silvrettaplatz 4, 6561 Ischgl, AT
 - Coordinates (latitude, longitude): 47.009572, 10.2883469
 - Directions: https://www.google.com/maps/dir/?api=1&destination=47.009572,10.2883469
 
@@ -135,7 +191,7 @@ Source: holdmybag.net — Holdmybag luggage storage. Operator and contractual pa
 
 #### Address and map
 
-- Address: Fanny-von-Lehnert-Straße 7, 5020 Salzburg
+- Address: Fanny-von-Lehnert-Straße 7, 5020 Salzburg, AT
 - Coordinates (latitude, longitude): 47.8152675, 13.0437085
 - Directions: https://www.google.com/maps/dir/?api=1&destination=47.8152675,13.0437085
 
@@ -185,62 +241,6 @@ Package price: covers the entire booking period.
 - Phone: +43 662 46 88 0
 - Email: office@holdmybag.net
 - Website: https://www.gchhotelgroup.com/de/hotel/radisson-blu-hotel-conference-centre-salzburg?gad_source=1&gad_campaignid=1330991487&gbraid=0AAAAADxUAX4U0RG021jFkogrl-jkTt_zH&gclid=Cj0KCQjwkt_UBhDMARIsALpnOAzN9osWIOlqzeWuBjYXOeXpn0QunLtOv_dOIqinTwftffeArlvCMvIaAibMEALw_wcB
-
----
-
-Source: holdmybag.net — Holdmybag luggage storage. Operator and contractual partner: Holdmybag GmbH.
-
-### Innsbruck Citylocker.store – Altstadt Innsbruck
-
-> Luggage storage (lockers) by Holdmybag
->
-> Access to the store is via the main entrance.
-
-- Web page: https://holdmybag.net/en/location/innsbruck-citylocker/
-- Deutsche Version: https://holdmybag.net/standort/innsbruck-citylocker/
-- Markdown (Deutsch): https://holdmybag.net/standort/innsbruck-citylocker.md
-
-#### Address and map
-
-- Address: Marktgraben 13, 6020 Innsbruck, AT
-- Coordinates (latitude, longitude): 47.2673221, 11.392071
-- Directions: https://www.google.com/maps/dir/?api=1&destination=47.2673221,11.392071
-
-#### Opening hours
-
-Open 24/7.
-
-#### Booking and payment
-
-- Online: Reserve and pay for a locker in advance; the access code arrives by email. [Book now](https://booking.citylocker.store/citylocker-store/citylocker.store/dates)
-- On site by smartphone: Scan the QR code on the locker, choose a compartment and pay on your phone.
-- On site at the terminal: not available at this location.
-
-#### Prices
-
-| Size | Price |
-| --- | --- |
-| XS | 3 €/day |
-| S | 6 €/day |
-| M | 8 €/day |
-| L | 12 €/day |
-| SKI | 18 €/day |
-
-#### Locker sizes
-
-| Size | Dimensions (W×H×D) | Note |
-| --- | --- | --- |
-| XS | 46 × 13 × 65 cm |  |
-| S | 46 × 28 × 65 cm |  |
-| M | 46 × 43 × 95 cm |  |
-| L | 46 × 73 × 95 cm |  |
-| SKI | 38 × 180 × 45 cm |  |
-
-#### Support and contact
-
-- Phone: +43 720 6763000
-- Email: office@holdmybag.net
-- Website: https://www.citylocker.store/#galerie
 
 ---
 
@@ -431,8 +431,8 @@ Open 24/7.
 
 #### Support and contact
 
-- Phone: +43 720 6763000
-- Email: office@holdmybag.net
+- Phone: +43 720 676300-99
+- Email: support@variocube.com
 
 ---
 
@@ -562,8 +562,8 @@ Open 24/7.
 
 #### Support and contact
 
-- Phone: +43 720 6763000
-- Email: office@holdmybag.net
+- Phone: +43 720 676300-99
+- Email: support@variocube.com
 
 ---
 
@@ -692,8 +692,8 @@ Package price: covers the entire booking period.
 
 #### Support and contact
 
-- Phone: +43 720 6763000
-- Email: office@holdmybag.net
+- Phone: +43 720 676300-99
+- Email: support@variocube.com
 - Website: https://my.homaris.de/search/offers?PROPERTY_IDS=21201
 
 ---
@@ -754,8 +754,8 @@ Package price: covers the entire booking period.
 
 #### Support and contact
 
-- Phone: +43 720 6763000
-- Email: office@holdmybag.net
+- Phone: +43 720 676300-99
+- Email: support@variocube.com
 
 ---
 
@@ -1091,6 +1091,8 @@ Source: holdmybag.net — Holdmybag luggage storage. Operator and contractual pa
 ### Athens Commercial 1-7
 
 > Luggage storage (lockers) by Holdmybag
+>
+> Comfortable lockers
 
 - Web page: https://holdmybag.net/en/location/athens-commercial-1/
 - Deutsche Version: https://holdmybag.net/standort/athens-commercial-1/
@@ -1138,6 +1140,10 @@ Open 24/7.
 - CCTV
 - Lighting
 - Covered
+
+#### About this location
+
+Use the lockers before check-in or after check-out and enjoy the city without heavy luggage.
 
 #### Support and contact
 

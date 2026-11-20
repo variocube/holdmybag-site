@@ -57,8 +57,8 @@ Package price: covers the entire booking period.
 
 ## Support and contact
 
-- Phone: +43 720 6763000
-- Email: office@holdmybag.net
+- Phone: +43 720 676300-99
+- Email: support@variocube.com
 - Website: https://my.homaris.de/search/offers?PROPERTY_IDS=21201
 
 ---

@@ -1,6 +1,8 @@
 # Athens Commercial 1-7
 
 > Gepäckaufbewahrung (Schließfächer) von Holdmybag
+>
+> Komfortable Schließfächer
 
 - Webseite: https://holdmybag.net/standort/athens-commercial-1/
 - English version: https://holdmybag.net/en/location/athens-commercial-1/
@@ -48,6 +50,10 @@ Die Schließfächer 1–20 sowie die Steuereinheit befinden sich im Zwischengesc
 - Videoüberwacht
 - Beleuchtet
 - Überdacht / innen
+
+## Über diesen Standort
+
+Nutzen Sie die Schließfächer vor dem Checkin oder nach dem Checkout und genießen Sie die Stadt ohne schweres Gepäck.
 
 ## Support und Kontakt
 

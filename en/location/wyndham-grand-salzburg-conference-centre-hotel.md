@@ -10,7 +10,7 @@
 
 ## Address and map
 
-- Address: Fanny-von-Lehnert-Straße 7, 5020 Salzburg
+- Address: Fanny-von-Lehnert-Straße 7, 5020 Salzburg, AT
 - Coordinates (latitude, longitude): 47.8152675, 13.0437085
 - Directions: https://www.google.com/maps/dir/?api=1&destination=47.8152675,13.0437085
 
