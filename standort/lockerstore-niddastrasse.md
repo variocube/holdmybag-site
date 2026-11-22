@@ -11,8 +11,8 @@
 ## Adresse und Karte
 
 - Adresse: Niddastr. 63, 60329 Frankfurt am Main, DE
-- Koordinaten (Breite, Länge): 50.1094045, 8.6630254
-- Navigation: https://www.google.com/maps/dir/?api=1&destination=50.1094045,8.6630254
+- Koordinaten (Breite, Länge): 50.1090983, 8.662827
+- Navigation: https://www.google.com/maps/dir/?api=1&destination=50.1090983,8.662827
 
 ## Anfahrt und Zugang
 
