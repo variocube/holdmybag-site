@@ -10,13 +10,13 @@
 
 ## Address and map
 
-- Address: Niddastr. 65, 60329 Frankfurt am Main, DE
+- Address: Niddastr. 63, 60329 Frankfurt am Main, DE
 - Coordinates (latitude, longitude): 50.1094045, 8.6630254
 - Directions: https://www.google.com/maps/dir/?api=1&destination=50.1094045,8.6630254
 
 ## Getting there and access
 
-The Holdmybag Locker Store is conveniently located at Niddastraße 65, just a 3-minute walk from Frankfurt Central Station, and offers 75 high-quality luggage lockers. During the day, the store can be accessed via QR code. Lockers can be booked online in advance or directly on-site using the touchscreen display or a smartphone. The entire facility is monitored by video surveillance and is located in a secure street area. In the evening, the store is additionally secured by a roller shutter. Customers can easily open it using their booking and personal access code, ensuring safe and convenient access to their luggage even during evening hours.
+Der Holdmybag Locker Store befindet sich 3 Gehminuten vom Frankfurter Hauptbahnhof in der Niddastr. 63. Tagsüber Zutritt mit QR Code möglich, Fachbuchung Online oder vor Ort per Display oder Mobil. Der Raum ist videoüberwacht und in einem abgesicherten Strassenbereich. Abends ist der Store mit einem Rolltor gesichert. Jeder Nutzer des Stores kann dieses mit der Buchung und dem Zutrittscode öffnen und den Store damit sicher in den Abendzeiten nutzen
 
 ### Frankfurter Hauptbahnhof
 
@@ -66,13 +66,13 @@ Package price: covers the entire booking period.
 
 ## About this location
 
-The Holdmybag Locker Store is conveniently located at Niddastraße 65, just a 3-minute walk from Frankfurt Central Station, and offers 75 high-quality luggage lockers.
+Der Holdmybag Locker Store befindet sich 3 Gehminuten vom Frankfurter Hauptbahnhof in der Niddastr. 63.
 
-During the day, the store can be accessed via QR code. Lockers can be booked online in advance or directly on-site using the touchscreen display or a smartphone.
+Tagsüber Zutritt mit QR Code möglich, Fachbuchung Online oder vor Ort per Display oder Mobil.
 
-The entire facility is monitored by video surveillance and is located in a secure street area.
+Der Raum ist videoüberwacht und in einem abgesicherten Strassenbereich.
 
-In the evening, the store is additionally secured by a roller shutter. Customers can easily open it using their booking and personal access code, ensuring safe and convenient access to their luggage even during evening hours.
+Abends ist der Store mit einem Rolltor gesichert. Jeder Nutzer des Stores kann dieses mit der Buchung und dem Zutrittscode öffnen und den Store damit sicher in den Abendzeiten nutzen.
 
 ## Support and contact
 

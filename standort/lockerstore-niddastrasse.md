@@ -10,13 +10,13 @@
 
 ## Adresse und Karte
 
-- Adresse: Niddastr. 65, 60329 Frankfurt am Main, DE
+- Adresse: Niddastr. 63, 60329 Frankfurt am Main, DE
 - Koordinaten (Breite, Länge): 50.1094045, 8.6630254
 - Navigation: https://www.google.com/maps/dir/?api=1&destination=50.1094045,8.6630254
 
 ## Anfahrt und Zugang
 
-Der Holdmybag Locker Store befindet sich 3 Gehminuten vom Frankfurter Hauptbahnhof in der Niddastr. 65. Tagsüber Zutritt mit QR Code möglich, Fachbuchung Online oder vor Ort per Display oder Mobil. Der Raum ist videoüberwacht und in einem abgesicherten Strassenbereich. Abends ist der Store mit einem Rolltor gesichert. Jeder Nutzer des Stores kann dieses mit der Buchung und dem Zutrittscode öffnen und den Store damit sicher in den Abendzeiten nutzen
+Der Holdmybag Locker Store befindet sich 3 Gehminuten vom Frankfurter Hauptbahnhof in der Niddastr. 63. Tagsüber Zutritt mit QR Code möglich, Fachbuchung Online oder vor Ort per Display oder Mobil. Der Raum ist videoüberwacht und in einem abgesicherten Strassenbereich. Abends ist der Store mit einem Rolltor gesichert. Jeder Nutzer des Stores kann dieses mit der Buchung und dem Zutrittscode öffnen und den Store damit sicher in den Abendzeiten nutzen
 
 ### Frankfurter Hauptbahnhof
 
@@ -64,7 +64,7 @@ Paketpreis: gilt für die gesamte Buchungsdauer.
 
 ## Über diesen Standort
 
-Der Holdmybag Locker Store befindet sich 3 Gehminuten vom Frankfurter Hauptbahnhof in der Niddastr. 65.
+Der Holdmybag Locker Store befindet sich 3 Gehminuten vom Frankfurter Hauptbahnhof in der Niddastr. 63.
 
 Tagsüber Zutritt mit QR Code möglich, Fachbuchung Online oder vor Ort per Display oder Mobil.
 
