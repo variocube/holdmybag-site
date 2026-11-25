@@ -1,12 +1,13 @@
 {
   "env": "prod",
-  "publish_ts": "2026-11-22T09:31:35.779897+00:00",
+  "publish_ts": "2026-11-25T10:33:50.488300+00:00",
   "source_commit": "",
   "lang": "de",
   "ga4_id": "G-ZCVKJGX0MN",
   "gtm_id": null,
   "consent_cookie_name": "hmb_consent",
-  "location_count": 18,
+  "consent_cookie_domain": "holdmybag.net",
+  "location_count": 19,
   "sc_verification_token": null,
   "redirects_count": 0
 }

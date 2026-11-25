@@ -32,7 +32,7 @@ Open 24/7.
 
 ## Booking and payment
 
-- Online: Reserve and pay for a locker in advance; the access code arrives by email. [Book now](https://booking.safecube.io/holdmybag/lockerstore-niddastrasse/dates)
+- Online: Reserve and pay for a locker in advance; the access code arrives by email. [Book now](https://booking.holdmybag.net/holdmybag/lockerstore-niddastrasse/dates)
 - On site by smartphone: Scan the QR code on the locker, choose a compartment and pay on your phone. Payment methods: Card, Apple Pay, Google Pay, PayPal.
 - On site at the terminal: Choose a compartment on the screen and pay by card or contactless at the terminal. Payment methods: Card, Apple Pay, Google Pay, PayPal.
 

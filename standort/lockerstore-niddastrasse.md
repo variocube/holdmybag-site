@@ -30,7 +30,7 @@ Die Strassenbahnhaltestelle Platz der Republik befindet sich ca. 1 Gehminute dir
 
 ## Buchen und Bezahlen
 
-- Online: Fach vorab reservieren und bezahlen, der Zugangscode kommt per E-Mail. [Jetzt buchen](https://booking.safecube.io/holdmybag/lockerstore-niddastrasse/dates)
+- Online: Fach vorab reservieren und bezahlen, der Zugangscode kommt per E-Mail. [Jetzt buchen](https://booking.holdmybag.net/holdmybag/lockerstore-niddastrasse/dates)
 - Vor Ort per Smartphone: QR-Code am Locker scannen, Fach wählen, am Handy zahlen. Zahlungsarten: Karte, Apple Pay, Google Pay, PayPal.
 - Vor Ort am Terminal: Am Display Fach wählen, am Terminal mit Karte oder kontaktlos zahlen. Zahlungsarten: Karte, Apple Pay, Google Pay, PayPal.
 
