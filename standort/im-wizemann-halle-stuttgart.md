@@ -24,7 +24,7 @@ Zugang zum Garderoben Locker im Rahmen der Veranstaltungen und der Öffnungszeit
 
 ## Buchen und Bezahlen
 
-- Online: Fach vorab reservieren und bezahlen, der Zugangscode kommt per E-Mail. [Jetzt buchen](https://booking.safecube.io/str-kultur-und-betriebs-gmbH)
+- Online: Fach vorab reservieren und bezahlen, der Zugangscode kommt per E-Mail. [Jetzt buchen](https://booking.holdmybag.net/str-kultur-und-betriebs-gmbH)
 - Vor Ort per Smartphone: QR-Code am Locker scannen, Fach wählen, am Handy zahlen.
 - Vor Ort am Terminal: an diesem Standort nicht verfügbar.
 

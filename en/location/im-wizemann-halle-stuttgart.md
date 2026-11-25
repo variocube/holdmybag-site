@@ -24,7 +24,7 @@ Open 24/7.
 
 ## Booking and payment
 
-- Online: Reserve and pay for a locker in advance; the access code arrives by email. [Book now](https://booking.safecube.io/str-kultur-und-betriebs-gmbH)
+- Online: Reserve and pay for a locker in advance; the access code arrives by email. [Book now](https://booking.holdmybag.net/str-kultur-und-betriebs-gmbH)
 - On site by smartphone: Scan the QR code on the locker, choose a compartment and pay on your phone.
 - On site at the terminal: not available at this location.
 

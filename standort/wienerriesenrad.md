@@ -26,7 +26,7 @@ Die Schließfächer sind von 7:00 bis 23:59 benutzbar/geöffnet. Vor Ort ist ein
 
 ## Buchen und Bezahlen
 
-- Online: Fach vorab reservieren und bezahlen, der Zugangscode kommt per E-Mail. [Jetzt buchen](https://booking.safecube.io/wienerriesenrad/wienerriesenrad/dates)
+- Online: Fach vorab reservieren und bezahlen, der Zugangscode kommt per E-Mail. [Jetzt buchen](https://booking.holdmybag.net/wienerriesenrad/wienerriesenrad)
 - Vor Ort per Smartphone: QR-Code am Locker scannen, Fach wählen, am Handy zahlen. Zahlungsarten: Karte, Apple Pay, Google Pay, PayPal.
 - Vor Ort am Terminal: Am Display Fach wählen, am Terminal mit Karte oder kontaktlos zahlen. Zahlungsarten: Karte, Apple Pay, Google Pay, PayPal.
 
