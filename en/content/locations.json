@@ -292,7 +292,7 @@
       "sun": []
     },
     "price_text": "Pakete 1/6/8/12/24 Std · XS 2,00/3,00/3,50/4,00/6,00 € · S 3,00/4,50/5,00/5,50/8,00 € · M 4,00/6,50/7,00/7,50/10,00 € · L 4,50/7,50/8,50/10,00/14,00 €",
-    "booking_online": true,
+    "booking_online": false,
     "booking_qr": true,
     "booking_terminal": false
   },
@@ -692,7 +692,7 @@
       "sun": []
     },
     "price_text": "Pakete 1/6/8/12/24 Std · XS 2,00/3,00/3,50/4,00/6,00 € · S 3,00/4,50/5,00/5,50/8,00 € · M 4,00/6,50/7,00/7,50/10,00 € · L 4,50/7,50/8,50/10,00/14,00 €",
-    "booking_online": true,
+    "booking_online": false,
     "booking_qr": true,
     "booking_terminal": false
   },

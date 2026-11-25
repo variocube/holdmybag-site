@@ -20,7 +20,7 @@
 
 ## Buchen und Bezahlen
 
-- Online: Fach vorab reservieren und bezahlen, der Zugangscode kommt per E-Mail. [Jetzt buchen](https://booking.holdmybag.net/home1/tuerkenstrasse-3)
+- Online: an diesem Standort nicht verfügbar.
 - Vor Ort per Smartphone: QR-Code am Locker scannen, Fach wählen, am Handy zahlen. Zahlungsarten: Karte, Apple Pay, Google Pay, PayPal.
 - Vor Ort am Terminal: an diesem Standort nicht verfügbar.
 

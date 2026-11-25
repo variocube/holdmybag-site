@@ -20,7 +20,7 @@ Open 24/7.
 
 ## Booking and payment
 
-- Online: Reserve and pay for a locker in advance; the access code arrives by email. [Book now](https://booking.holdmybag.net/home1/taborstrasse-123)
+- Online: not available at this location.
 - On site by smartphone: Scan the QR code on the locker, choose a compartment and pay on your phone. Payment methods: Card, Apple Pay, Google Pay, PayPal.
 - On site at the terminal: not available at this location.
 
