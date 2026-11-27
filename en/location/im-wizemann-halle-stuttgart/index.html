@@ -138,7 +138,9 @@
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-  gtag('config', "G-ZCVKJGX0MN", { anonymize_ip: true });
+  var hmbGaConfig = { anonymize_ip: true };
+  if (typeof window.hmbPageReferrer === 'string') hmbGaConfig.page_referrer = window.hmbPageReferrer;
+  gtag('config', "G-ZCVKJGX0MN", hmbGaConfig);
 </script>
 </head>
 <body><header class="site-header">
@@ -275,7 +277,7 @@
       Design: <a href="https://html5up.net" rel="noopener" target="_blank">HTML5 UP</a>
     </small>
   </div>
-  <p class="site-footer-updated">Last updated <time class="site-publish-time" datetime="2026-11-25T14:39:34.710919+01:00">25.11.2026, 14:39 (CET)</time></p>
+  <p class="site-footer-updated">Last updated <time class="site-publish-time" datetime="2026-11-27T12:38:16.867285+01:00">27.11.2026, 12:38 (CET)</time></p>
 </footer><div id="hmb-consent" data-cookie-name="hmb_consent" data-cookie-domain="holdmybag.net" data-modal="1" hidden>
   <!-- Dialog wird zur Laufzeit von /assets/js/consent.js gerendert (HMB-K6, E-348). -->
 </div>
